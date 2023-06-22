@@ -1,0 +1,22 @@
+D:\PBKK\Tugas 2 Extended\PBKK-master\Kasir\Kasir\bin\Debug\Kasir.exe.config
+D:\PBKK\Tugas 2 Extended\PBKK-master\Kasir\Kasir\bin\Debug\Kasir.exe
+D:\PBKK\Tugas 2 Extended\PBKK-master\Kasir\Kasir\bin\Debug\Kasir.pdb
+D:\PBKK\Tugas 2 Extended\PBKK-master\Kasir\Kasir\obj\Debug\Kasir.csproj.AssemblyReference.cache
+D:\PBKK\Tugas 2 Extended\PBKK-master\Kasir\Kasir\obj\Debug\Kasir.csproj.SuggestedBindingRedirects.cache
+D:\PBKK\Tugas 2 Extended\PBKK-master\Kasir\Kasir\obj\Debug\Kasir.Kasir.resources
+D:\PBKK\Tugas 2 Extended\PBKK-master\Kasir\Kasir\obj\Debug\Kasir.Properties.Resources.resources
+D:\PBKK\Tugas 2 Extended\PBKK-master\Kasir\Kasir\obj\Debug\Kasir.csproj.GenerateResource.cache
+D:\PBKK\Tugas 2 Extended\PBKK-master\Kasir\Kasir\obj\Debug\Kasir.csproj.CoreCompileInputs.cache
+D:\PBKK\Tugas 2 Extended\PBKK-master\Kasir\Kasir\obj\Debug\Kasir.exe
+D:\PBKK\Tugas 2 Extended\PBKK-master\Kasir\Kasir\obj\Debug\Kasir.pdb
+D:\ITS\6th sem\PBKK\123\Kasir\Kasir\bin\Debug\Kasir.exe.config
+D:\ITS\6th sem\PBKK\123\Kasir\Kasir\bin\Debug\Kasir.exe
+D:\ITS\6th sem\PBKK\123\Kasir\Kasir\bin\Debug\Kasir.pdb
+D:\ITS\6th sem\PBKK\123\Kasir\Kasir\obj\Debug\Kasir.csproj.AssemblyReference.cache
+D:\ITS\6th sem\PBKK\123\Kasir\Kasir\obj\Debug\Kasir.csproj.SuggestedBindingRedirects.cache
+D:\ITS\6th sem\PBKK\123\Kasir\Kasir\obj\Debug\Kasir.Kasir.resources
+D:\ITS\6th sem\PBKK\123\Kasir\Kasir\obj\Debug\Kasir.Properties.Resources.resources
+D:\ITS\6th sem\PBKK\123\Kasir\Kasir\obj\Debug\Kasir.csproj.GenerateResource.cache
+D:\ITS\6th sem\PBKK\123\Kasir\Kasir\obj\Debug\Kasir.csproj.CoreCompileInputs.cache
+D:\ITS\6th sem\PBKK\123\Kasir\Kasir\obj\Debug\Kasir.exe
+D:\ITS\6th sem\PBKK\123\Kasir\Kasir\obj\Debug\Kasir.pdb
